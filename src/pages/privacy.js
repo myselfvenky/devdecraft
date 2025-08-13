@@ -91,7 +91,7 @@ export default function Privacy() {
               </section>
 
               <section>
-                <h2>9. Children's Privacy</h2>
+                <h2>9. Children&apos;s Privacy</h2>
                 <p>
                   Our services are not intended for children under 13. We do not knowingly collect personal information 
                   from children under 13.
